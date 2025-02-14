@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **Atulranjan164@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://bright-vacherin-5dd1fd.netlify.app)
+- 📄 Know about my experiences: [My Resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
