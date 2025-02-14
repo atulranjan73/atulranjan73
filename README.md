@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://bright-vacherin-5dd1fd.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://melodious-longma-62b8ac.netlify.app/)
 
 - 📫 How to reach me: **Atulranjan164@gmail.com**
 
